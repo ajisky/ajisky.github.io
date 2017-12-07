@@ -1,13 +1,19 @@
 ---
 layout: page
-title: About AJISky
+title: About
 permalink: /about/
 tags: about
 ---
 
-contact
-kanxue-id: [AJISky](https://bbs.pediy.com/user-314673.htm)
-mail:      [laoguo.good@163.com]
+### contact
+
+kanxue:     [AJISky](https://bbs.pediy.com/user-314673.htm)  
+mailto:     laoguo.good@163.com  
+taobao:     [神犬小白](https://shop60755304.taobao.com)  
+
+weixin:     ![AJISky](image/wpay.jpeg)
+
+
 
 
 
