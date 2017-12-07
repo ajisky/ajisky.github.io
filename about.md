@@ -5,7 +5,7 @@ permalink: /about/
 tags: about
 ---
 
-# contact
+### contact
 
 kanxue:     [AJISky](https://bbs.pediy.com/user-314673.htm)  
 mailto:     laoguo.good@163.com  
