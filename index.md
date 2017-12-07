@@ -1,23 +1,13 @@
-## Welcome to ajisky
+## Welcome to ajisky  
+神犬小白的主人hjk你好！快中午了记得吃饭
+
+### 
 
 
-### Markdown
+
+# 
+## 
+### 
 
 
-
-# Header 1
-## Header 2
-### Header 3
-
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-
-### Jekyll Themes
-
-
-### Support or Contact
 
