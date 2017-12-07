@@ -5,11 +5,12 @@ permalink: /about/
 tags: about
 ---
 
-#contact
+#联系方式
 
-kanxue-id: [AJISky](https://bbs.pediy.com/user-314673.htm).
+看雪:     [AJISky](https://bbs.pediy.com/user-314673.htm).
+邮箱:     [laoguo.good@163.com].
+手工皮具:  [神犬小白](https://shop60755304.taobao.com).
 
-mail:      [laoguo.good@163.com].
 
 
 
