@@ -1,11 +1,11 @@
 # Site settings
-title:       AJISky
+title:       HOME
 email:       your_email@example.com
 author:      John Otander
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl:     ""
 url:         "http://ajisky.github.io"
-date_format: "%b %-d, %Y"
+date_format: "%m %-d, %Y"
 header_pages:
  - about.md
  - contact.html
