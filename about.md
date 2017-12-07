@@ -5,11 +5,11 @@ permalink: /about/
 tags: about
 ---
 
-contact
+#contact
 
-kanxue-id: [AJISky](https://bbs.pediy.com/user-314673.htm)
+kanxue-id: [AJISky](https://bbs.pediy.com/user-314673.htm).
 
-mail:      [laoguo.good@163.com]
+mail:      [laoguo.good@163.com].
 
 
 
