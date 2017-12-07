@@ -1,11 +1,11 @@
 # Site settings
 title:       HOME
-email:       your_email@example.com
+email:       laoguo.good@163.com
 author:      John Otander
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl:     ""
 url:         "http://ajisky.github.io"
-date_format: "%m %-d, %Y"
+date_format: "%Y-%M-%D"
 header_pages:
  - about.md
  - contact.html
