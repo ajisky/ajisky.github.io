@@ -20,4 +20,7 @@ categories: jekyll pixyll
 刚刚在看一篇国人的paper，有点感觉了才有了这篇文章。"代码自修改系统"流程是 Restore(还原目标指令T)-Target(执行目标指令)-Change(修改目标指令)
 跟函数动态清除功能有些类似，不同是更加轻量级的，有函数整段加密过渡到指令级保护，保护代码原意加解密指令结合上内存校验能够防止代码被修改的完整性方案。
 想了想忽略函数原逻辑，将Restore和Change分别插入到函数开头和末尾，Target位置随便在那个分支上问题都不大，顶多不被执行的Change分支上会在内存中保留原指令看着论文的阐述，果然很屌，我不禁抖了抖拖着下巴的手指，和露出皎洁的笑
+
+
+饮用[Exploiting Self-Modification Mechanism for Program Protection](http://www27.cs.kobe-u.ac.jp/achieve/data/pdf/65.pdf)
  
