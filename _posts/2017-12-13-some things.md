@@ -22,5 +22,5 @@ categories: jekyll pixyll
 想了想忽略函数原逻辑，将Restore和Change分别插入到函数开头和末尾，Target位置随便在那个分支上问题都不大，顶多不被执行的Change分支上会在内存中保留原指令看着论文的阐述，果然很屌，我不禁抖了抖拖着下巴的手指，和露出皎洁的笑
 
 
-饮用[Exploiting Self-Modification Mechanism for Program Protection](http://www27.cs.kobe-u.ac.jp/achieve/data/pdf/65.pdf)
+引用[Exploiting Self-Modification Mechanism for Program Protection](http://www27.cs.kobe-u.ac.jp/achieve/data/pdf/65.pdf)
  
