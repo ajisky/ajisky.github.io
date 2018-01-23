@@ -4,7 +4,7 @@ layout:     post
 title:      ARM、Intel和MIPS
 date:       2018-01-23 11:39:19
 summary:    硬件知识
-categories: jekyll pixyll
+categories: cpu things
 ---
 
 ##安卓支持三类处理器(CPU)：ARM、Intel和MIPS
