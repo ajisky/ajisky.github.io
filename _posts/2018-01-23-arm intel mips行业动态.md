@@ -1,4 +1,3 @@
-
 ---
 layout:     post
 title:      ARM、Intel和MIPS
